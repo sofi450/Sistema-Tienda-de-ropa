@@ -1,4 +1,4 @@
-# Sistema-Tienda-de-ropa
+# Sistema venta de boleto para un concierto
 Karen Sofia Diaz Benites
 ![Diagrama UML](diagrama-uml-conciertos.png)
 
